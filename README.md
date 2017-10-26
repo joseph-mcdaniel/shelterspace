@@ -1,4 +1,4 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+# Bootstrap 4 (BETA 4.0.0)
 
 Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
 
